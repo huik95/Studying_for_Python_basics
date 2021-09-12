@@ -1,1 +1,2 @@
-time=input()
+h, m, s = input().split(':')
+print(m)
